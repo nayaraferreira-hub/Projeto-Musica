@@ -1,0 +1,33 @@
+# Projeto Música
+
+## Tema Escolhido
+O tema escolhido para o site foi **Música**, explorando diferentes géneros, factos e curiosidades do universo musical.
+
+## Integrantes do Grupo
+- Nayara Lucia
+- Felipe
+- Sheyevene
+- Isabelly Oliveira
+- Maria Sofia
+
+## Breve Descrição do Site
+Um site interativo e informativo sobre o mundo da música, criado para apresentar conteúdos sobre artistas, estilos musicais e curiosidades de forma simples e apelativa[cite: 1].
+
+## Lista das 4 Páginas Entregues
+1. `index.html` - Página principal do site[cite: 1]
+2. `curiosidades.html` - Página com factos e curiosidades sobre a música[cite: 1]
+3. `generos.html` - Página dedicada aos diferentes géneros musicais[cite: 1]
+4. `sobre.html` - Página sobre o projeto e a equipa[cite: 1]
+
+## Divisão de Tarefas por Integrante
+- **Felipe**: Responsável pela estrutura HTML da página principal (`index.html`)[cite: 1].
+- **Sheyevene**: Responsável pelo HTML da página de curiosidades (`curiosidades.html`)[cite: 1].
+- **Maria Sofia**: Responsável pelo HTML da página de géneros (`generos.html`)[cite: 1].
+- **Nayara Lucia**: Responsável por toda a estilização e design do site no ficheiro `style.css`[cite: 1].
+- **Isabelly Oliveira**: Responsável pela organização dos conteúdos da quarta página (`sobre.html`), seleção de imagens e apoio geral ao grupo[cite: 1].
+
+## Uso do Flexbox
+O Flexbox foi utilizado no ficheiro `style.css` para organizar e alinhar os elementos da página de forma flexível[cite: 1]. Foi aplicado na barra de menu de navegação, no alinhamento central dos blocos de texto e na disposição dos cartões e imagens nas páginas de curiosidades e géneros[cite: 1].
+
+## Uso de IA
+A Inteligência Artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do trabalho, auxiliando na estruturação do ficheiro `README.md`, no esclarecimento de dúvidas de sintaxe CSS/HTML e na organização do código[cite: 1].
